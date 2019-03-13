@@ -28,43 +28,43 @@ export default {
       iconList: [
         {
           id: '0001',
-          imgUrl: 'http://img.doutula.com/production/uploads/image/2019/03/13/20190313434056_FNTaHt.png',
-          desc: '吃喝玩乐衣食住行'
+          imgUrl: 'http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png',
+          desc: '景点门票'
         },
         {
           id: '0002',
-          imgUrl: 'http://img.doutula.com/production/uploads/image/2019/03/13/20190313434057_BuQvSs.png',
-          desc: '景点'
+          imgUrl: 'http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png',
+          desc: '一日游'
         },
         {
           id: '0003',
-          imgUrl: 'http://img.doutula.com/production/uploads/image/2019/03/13/20190313434057_ZNsntG.png',
-          desc: '景点'
+          imgUrl: 'http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png',
+          desc: '城堡'
         },
         {
           id: '0004',
-          imgUrl: 'http://img.doutula.com/production/uploads/image/2019/03/13/20190313434058_HkKCUM.png',
-          desc: '景点'
+          imgUrl: 'http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png',
+          desc: '溜娃儿'
         },
         {
           id: '0005',
-          imgUrl: 'https://ws2.sinaimg.cn/bmiddle/9150e4e5gy1g0r86xlg9yj201c01cgln.jpg',
-          desc: '景点'
+          imgUrl: 'http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20191/0334cf5430b9b5505fd79e2b8d7e8670.png',
+          desc: '爬长城'
         },
         {
           id: '0006',
-          imgUrl: 'https://ws3.sinaimg.cn/bmiddle/9150e4e5gy1g0r86z5mqoj201c01c0ss.jpg',
-          desc: '景点'
+          imgUrl: 'http://img1.qunarzz.com/piao/fusion/1803/6c/9e54a8540fee0102.png',
+          desc: '故宫'
         },
         {
           id: '0007',
-          imgUrl: 'https://ws1.sinaimg.cn/bmiddle/9150e4e5gy1g0r870oy8bj201c01cdfv.jpg',
-          desc: '景点'
+          imgUrl: 'http://img1.qunarzz.com/piao/fusion/1803/e3/67df61427c8e1302.png',
+          desc: '茶馆相声'
         },
         {
           id: '0008',
-          imgUrl: 'https://ws3.sinaimg.cn/bmiddle/9150e4e5gy1frctj9wf1ej201f01f0nx.jpg',
-          desc: '景点'
+          imgUrl: 'http://img1.qunarzz.com/piao/fusion/1803/bd/9f7b9b2b60c1502.png',
+          desc: '踏青赏花'
         },
         {
           id: '0009',
