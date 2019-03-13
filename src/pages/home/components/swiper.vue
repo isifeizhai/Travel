@@ -23,6 +23,7 @@ export default {
       },
       swiperList: [{
         id: '0001',
+        // imgUrl: '../../../assets/swiper1.jpg'
         imgUrl: '//img1.qunarzz.com/vc/bf/9d/a3/67b7b37511fa26a78298bf1da1.jpg'
       },
       {
@@ -38,8 +39,8 @@ export default {
 }
 </script>
 
-<style lang="stylus" socped>
-.wrapper .swiper-pagination-bullet-active
+<style lang="stylus" scoped>
+.wrapper >>> .swiper-pagination-bullet-active
   background #fff
   opacity 0.8
 .wrapper
